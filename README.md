@@ -1,2 +1,7 @@
 # AI-Mind-Perception_Uncanny-Valley_BPN
 Master's thesis titled 'Humanizing Technology: Exploring the Uncanny Valley and Basic Psychological Needs in AI Mind Perception as Tools, Agents, and Experiencers'
+
+
+
+# Abstract
+Artificial Intelligence (AI), its breakthroughs and rapid integration in our life and society necessitates an in-depth exploration on how humans are perceiving them. This work delves to study the effect of AI mind perception as tool, agent, and experiencer on the Uncanny effect and basic psychological needs fulfillment. Drawing on the established psychological theories, including Theory of Mind, Uncanny valley theory, Self Determination theory, and theories on Human-Computer Interaction, this study aims to provide a comprehensive analysis. We aim to validate that AI's capacity to feel (experience) elicit stronger feeling of eeriness than its capacity for planning and self-control (agency). We use Basic Psychological needs for technological use (BPN-TU) scale to study the effect of AI's mind perception in basic psychological needs fulfillment. The study adopts an online experiment using survey questionnaire to measure users' perceptions towards an AI system named Maya presented in the healthcare context. The findings of this research are anticipated to provide valuable insights into the humanization of technology, offering practical implications for the design and deployment of human-centered, trustworthy and responsible AI systems.
